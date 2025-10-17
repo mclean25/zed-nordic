@@ -2,6 +2,8 @@
 
 A dark theme for [Zed](https://zed.dev) based on [nordic.nvim](https://github.com/AlexvZyl/nordic.nvim).
 
+![VERT_CleanShot 2025-10-17 at 07 40 47@2x](https://github.com/user-attachments/assets/c04d8888-7681-4145-ac97-876b4bfac8fa)
+
 ## Description
 
 Nordic is a Neovim colorscheme based on Nord, but emphasizing Aurora colors over Frost. This port brings the same aesthetic to Zed, featuring:
