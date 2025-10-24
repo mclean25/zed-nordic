@@ -1,0 +1,7 @@
+id = "zed-nordic"
+name = "Zed Nordic"
+version = "0.0.1"
+schema_version = 1
+authors = ["Alex McLean <alex.mclean25@gmail.com>"]
+description = "A Zed port of the Nordic theme"
+repository = "https://github.com/your-name/my-zed-extension"
